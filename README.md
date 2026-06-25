@@ -30,7 +30,7 @@ Let **X<sub>B</sub>** and **X<sub>M</sub>** represent the continuous random vari
 
 *(The malignant distribution exhibits significant horizontal translation due to accelerated growth dynamics, and a wider, flatter profile due to higher structural variation).*
 
-![Probability Density Functions](distribution-plot.png)
+![Probability Density Functions](distribution_plot.png)
 
 ## 4. Clinical Threshold Strategy & Diagnostic Risks
 
